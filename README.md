@@ -47,5 +47,5 @@ The following definitions shall have the same meaning regardless of whether they
 <h2>Contact Us</h2>
 <p>If you have any questions about this Disclaimer, You can contact Us:</p>
 <ul>
-<li>By email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6f29001d1c0e08000e032f08020e0603410c0002">[email&#160;protected]</a></li>
+<li>By email: Forsagoal@gmail.com </li>
 </ul>
